@@ -1,5 +1,5 @@
-- title: Bachelor of Data Science <br>
-         Catholic University of Eichstaett-Ingolstadt
+- title: Bachelor of Data Science<br>
+         <p class="small-bold">Catholic University of Eichstaett-Ingolstadt</p>
   from: 2022
   to: current
   description: |
@@ -9,8 +9,8 @@
 
                
                
-- title: Bachelor of Mathematics Teacher Education <br>
-         Saigon University
+- title: Bachelor of Mathematics Teacher Education<br>
+         <p class="small-bold">Saigon University</p>
   from: 2013
   to: 2017
   description: "Major in Mathematics <br> 
@@ -19,7 +19,7 @@
 
 
 
-- title: Mathematics teacher<br><b><p class="small-bold">Thang Long joinstock company, Viet Nam</p></b>
+- title: Mathematics teacher<br><p class="small-bold">Thang Long joinstock company, Viet Nam</p>
   from: 2014
   to: 2020
   description: |
