@@ -1,8 +1,8 @@
 - name: Python
-  percentage: 100
+  #percentage: 100
   color: secondary
 
 - name: SQL
-  percentage: 100
+  #percentage: 100
   color: Warning
 
