@@ -1,5 +1,5 @@
 - name: Python
-  #percentage: 100
+  #percentage: 10
   color: secondary
 
 - name: SQL
