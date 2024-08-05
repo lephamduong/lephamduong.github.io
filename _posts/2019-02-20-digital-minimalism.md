@@ -10,14 +10,26 @@ An essential part of logistic regression is the sigmoid function. By mapping pre
 
 The sigmoid function's mathematical expression looks like below:
 
-{% raw %}
+
 <div class="mathjax-display">
   $$ {{ s(z) = \frac{1}{1 + e^{-z}} }} $$
 </div>
-{% endraw %}
+
 
 {% include elements/mathjax.html math="s(z) = \frac{1}{1 + e^{-z}}" %}
 
+
+
+
+<mark class="px-2">{{ include.text }}</mark>
+{% include elements/highlight.html text="I am highlighted text." %}
+
+
+{% raw %}
+<div class="mathjax-display">
+  $$ {{ include.math }} $$
+</div>
+{% endraw %}
 
 
 ## 1. Unsubscribe from irrelevant emails
