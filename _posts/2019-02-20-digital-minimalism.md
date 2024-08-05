@@ -8,6 +8,9 @@ description: Explore the properties of the sigmoid function and its role in logi
 
 An essential part of logistic regression is the sigmoid function. By mapping predicted values to probabilities, it ensures that the result stays between 0 and 1. Any real value can be entered into this function, and it will output a probability score. The sigmoid curve has an "S"-like visual representation.
 ![sigmoid](https://i.imgur.com/OQNgLMr.png)
+
+<img src="https://i.imgur.com/OQNgLMr.png" alt="sigmoid" width="400"/>
+
 The sigmoid function's mathematical expression looks like below:
 {% include elements/mathjax.html math="s(z) = \frac{1}{1 + e^{-z}}" %}
 
