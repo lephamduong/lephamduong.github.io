@@ -19,25 +19,15 @@ $$
 
 ## 1. Unsubscribe from irrelevant emails
 
-Inbox-zero isn’t a new idea but it’s infinitely more difficult to achieve this if you’re bombarded with emails from random retailers offering coupons and one-in-a-lifetime deals you’re never going to use.
 
-A simple way to de-clutter your inbox is to look at each email you receive from a subscription and if it’s not immediately relevant (or will be in the foreseeable future), just scroll to the bottom and hit that unsubscribe button. Over time you’ll receive less and less irrelevant emails and this will naturally translate into less stress in the back of your mind.
-
-And for those subscriptions and newsletters that you do want to keep, Unroll.me is a great tool I’ve used to manage the amount of content I see in my inbox. It allows you to wrap all relevant subscriptions into a daily newsletter that you see once and can tackle at your own leisure (it even allows you to unsubscribe directly from their platform!)
 
 ## 2. Unfollow people on social media
 
-As you progress through school, jobs, projects, and whatever else you devote your time to, you tend to meet a lot of people who you may add on Facebook, follow on Instagram, but never develop a real relationship with. These acquaintances bloat your feeds and may cause you to miss out on important things that happen to those in your life who do matter.
-
-What I have done is unfollow (or mute) the people that I don’t spend time with in person or plan to in the future. This includes brands, groups, events or influencers who I don’t feel are genuinely inspiring me. The beauty of this is that you are freeing up more time and mental space to interact with the content and people who you truly do want to invest in.
-
-If you don’t want to be dramatic but still want more manageable social media feeds, the mute feature does thankfully exist. This allows you to mute someone’s posts, stories, and other notifications without explicitly unfollowing them and not tarnishing your (probably nonexistent) relationship with them.
+someone’s posts, stories, and other notifications without explicitly unfollowing them and not tarnishing your (probably nonexistent) relationship with them.
 
 ## 3. Take occasional social media purges
 
-It’s no secret that social media messes with the reward circuitry in your brain. One of the best ways to see just how it works is to take a social media purge where you commit to not using it for a certain amount of time. I’ve been surprised at how reflexively I reach for my phone and even more surprised at the free time and mental clarity I have after a couple days of adjusting.
 
-In the past I’ve experimented with social media detoxes ranging from days to weeks and have found that the best strategy to avoid the temptation is to just delete the apps and not re-download until your purge is over. Most of the time you have an urge to check something, it’s simply a reflex and you won’t follow through since downloading the app again will take time and you will have caught yourself by then.
 
 Another strategy, courtesy of Kenton Prescott is to enact a recurring purge, where you keep your phone in airplane mode (or even Do Not Disturb) for some amount of hours a day, limiting the time you spend catching up on notifications. The idea is that everyone can wait a few hours for your attention, even in the case of emergencies.
 
