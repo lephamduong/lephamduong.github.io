@@ -1,8 +1,8 @@
 ---
 title: Sigmoid - A beautiful S-shape
 tags: [MachineLearning, LogisticRegression]
-style: 
-color: 
+style: fill
+color: success
 description: Explore the properties of the sigmoid function and its role in logistic regression.
 ---
 
