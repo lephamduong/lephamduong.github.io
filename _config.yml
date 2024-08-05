@@ -1,7 +1,8 @@
 ### Site Settings ###
 title               : Le Duong PHAM
 description         : >-
-                      Hello👋, I'm Le Duong Pham <br> I am passionate about Data Science📊 and Computer Science 💻
+                      Hello👋, I'm Le Duong Pham 
+                      I am passionate about Data Science📊 and Computer Science 💻
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : <lephamduong>/<lephamduong>.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : lephamduong/theme_for_web
