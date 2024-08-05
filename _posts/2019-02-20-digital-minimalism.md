@@ -15,7 +15,6 @@ The sigmoid function's mathematical expression looks like below:
 
 
 
-
 Key Properties of the Sigmoid Function
 ## 1. Output Range: 
 One of the most crucial properties of the sigmoid function is its output range. For any real number input the sigmoid function outputs values strictly between 0 and 1. This characteristic makes it especially useful for binary classification tasks, where the goal is to predict probabilities.
