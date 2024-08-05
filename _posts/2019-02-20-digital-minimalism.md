@@ -16,6 +16,38 @@ The sigmoid function's mathematical expression looks like below:
 
 
 
+Key Properties of the Sigmoid Function
+## 1. Output Range: 
+One of the most crucial properties of the sigmoid function is its output range. For any real number input the sigmoid function outputs values strictly between 0 and 1. This characteristic makes it especially useful for binary classification tasks, where the goal is to predict probabilities.
+
+<img src="https://i.imgur.com/EHo2uOV.png" alt="sigmoid" width="400"/>
+
+
+## 2. S-Shaped Curve:
+The sigmoid function creates an S-shaped curve. When plotted, the curve transitions smoothly from 0 to 1, with a point of maximum steepness at 0
+z=0. This steepness is crucial for distinguishing between probabilities close to 0 and those close to 1, providing a clear gradient for the learning algorithm to work with.
+
+## 3. Gradient and Derivative: 
+The sigmoid function’s gradient is another important property. The derivative of the sigmoid function can be expressed as:
+
+{% include elements/mathjax.html math="σ'(z)=σ(z)⋅(1−σ(z))" %}
+
+
+This property is essential for optimization algorithms like gradient descent, as it helps in adjusting the model parameters during training.
+
+## 4. Symmetry: The sigmoid function is symmetric around 
+
+z=0. This symmetry means that if z is positive, the sigmoid function’s output will be greater than 0.5, and if z is negative, the output will be less than 0.5. This property is useful in binary classification where the decision boundary is centered around 0.5.
+
+Asymptotic Behavior: As 
+𝑧
+z approaches positive or negative infinity, the sigmoid function asymptotically approaches 1 and 0, respectively. This means that extreme values of 
+𝑧
+z result in probabilities very close to 1 or 0, effectively making predictions more confident.
+
+
+
+
 
 ## 1. Unsubscribe from irrelevant emails
 
