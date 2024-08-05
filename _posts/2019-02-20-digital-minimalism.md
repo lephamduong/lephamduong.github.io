@@ -3,13 +3,28 @@ title: Sigmoid - A beautiful S-shape
 tags: [MachineLearning, LogisticRegression]
 style: 
 color: 
-description: Explore the properties of  sigmoid function. Role of it in logistic regression.
+description: Explore the properties of the sigmoid function and its role in logistic regression.
 ---
 
-An essential part of logistic regression is the sigmoid function. By mapping predicted values to probabilities, it makes sure that the result stays between 0 and 1. Any real value can be entered into this function, and it will output a probability score. The sigmoid curve has a "S"-like visual representation.
+An essential part of logistic regression is the sigmoid function. By mapping predicted values to probabilities, it ensures that the result stays between 0 and 1. Any real value can be entered into this function, and it will output a probability score. The sigmoid curve has an "S"-like visual representation.
 
 The sigmoid function's mathematical expression looks like below:
-[ s(z) = \frac{1}{1 + e^{-z}} ]
+
+$$
+s(z) = \frac{1}{1 + e^{-z}}
+$$
+
+<!-- MathJax configuration -->
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
 ## 1. Unsubscribe from irrelevant emails
