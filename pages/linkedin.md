@@ -1,6 +1,6 @@
 ---
 layout: null
-title: <i class="fab fa-1x fa-github"></i>
+title:<i class="fab fa-linkedin-in fa-1x"></i>
 weight: 6
-external_url: https://github.com/YoussefRaafatNasry/portfolYOU
+external_url: https://www.linkedin.com/in/lephamduong
 ---
